@@ -1,7 +1,7 @@
 # Python Resources (mine)
 
-Book - Python Crash Course
-Book - Automate the Boring Stuff with Python
+Book - Python Crash Course, 
+Book - Automate the Boring Stuff with Python, 
 Website - Geeks for Geeks https://www.geeksforgeeks.org/python-programming-language/
 
 
